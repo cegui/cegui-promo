@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg4821"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="favicon.svg">
+  <defs
+     id="defs4823" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="6.8321202"
+     inkscape:cy="-1.7255976"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata4826">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-476.66643,-514.22803)">
+    <g
+       id="g6875"
+       inkscape:export-filename="D:\2D\cegui\repo\website\favicon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(3.3606679,0,0,3.3606679,4390.8928,-3031.7045)">
+      <path
+         transform="matrix(0.15936123,0,0,0.15936123,-1287.9383,957.92617)"
+         d="m 832.97182,639.81757 c 0,16.49965 -13.37561,29.87526 -29.87526,29.87526 -16.49965,0 -29.87526,-13.37561 -29.87526,-29.87526 0,-16.49966 13.37561,-29.87527 29.87526,-29.87527 16.49965,0 29.87526,13.37561 29.87526,29.87527 z"
+         sodipodi:ry="29.875261"
+         sodipodi:rx="29.875261"
+         sodipodi:cy="639.81757"
+         sodipodi:cx="803.09656"
+         id="path6702"
+         style="opacity:0.95;fill:#2d2d2d;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <g
+         transform="matrix(0.20926426,0,0,0.20926426,-1105.8626,1017.888)"
+         id="g7799-3-6-8-1"
+         style="fill:#a0ec1e;fill-opacity:1">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5719-5-2-1-0-4-5-8-7"
+           d="m -258.69806,185.88849 c -1.47554,0.0232 -2.88789,0.19526 -4.0302,0.5145 -0.039,0.31846 1.35484,4.51039 1.35484,4.51039 l -9.19229,21.43723 c -0.018,0.45698 0.15984,0.82478 0.63455,1.04614 0,0 4.64946,2.12657 10.77006,2.12657 8.2389,0 12.3307,-2.00652 12.3307,-2.00652 0.25449,-0.20923 0.47934,-0.43798 0.39444,-0.75459 l -8.69494,-21.78023 0.89179,-4.73334 c -1.44585,-0.25268 -2.98341,-0.38331 -4.45895,-0.36015 z m 0.29155,2.24662 c 0.71909,-0.004 1.39442,0.0619 1.97223,0.18865 l -0.3773,3.48141 2.12657,5.50508 c -2.82379,0.79456 -3.48255,-1.21598 -7.59735,0.343 l 2.46957,-5.84808 -0.80604,-3.46426 c 0.73465,-0.12919 1.49323,-0.20192 2.21232,-0.2058 z"
+           style="fill:#a0ec1e;fill-opacity:1;stroke:none" />
+      </g>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="cegui_website.png"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path7189-7-5-7-3-1-0-1-5"
+         d="m -1159.0678,1059.3651 -0.4988,-1.2897 0.088,-0.82 c -0.2711,-0.059 -0.638,-0.056 -0.9826,0 l 0.192,0.8138 -0.58,1.3735 c 0.9652,-0.3657 1.1188,0.1045 1.7812,-0.082 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>
