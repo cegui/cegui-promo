@@ -7905,11 +7905,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1067.7076"
-     inkscape:cy="1649.5779"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="1250.3153"
+     inkscape:cy="1646.8893"
      inkscape:document-units="px"
-     inkscape:current-layer="g5417"
+     inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -8577,6 +8577,14 @@
     <g
        id="g6265"
        transform="translate(-46.60282,0.3236043)">
+      <rect
+         ry="0"
+         y="-3.0115852"
+         x="-361.4841"
+         height="122.59798"
+         width="103.0165"
+         id="rect11238-2-0"
+         style="fill:#a0ec1e;fill-opacity:1;stroke:none" />
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -8642,23 +8650,16 @@
            x="-221.2749"
            id="tspan4848-2-3-9-8-0"
            sodipodi:role="line">Download</tspan></text>
-      <rect
-         ry="0"
-         y="-3.0115852"
-         x="-359.36279"
-         height="5.3395743"
-         width="103.0165"
-         id="rect11238-2-0"
-         style="fill:#a0ec1e;fill-opacity:1;stroke:none" />
       <g
          transform="matrix(1.7178294,0,0,1.7178294,1571.1427,-927.6135)"
          id="g5370"
          inkscape:export-filename="cegui_website.png"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
+         inkscape:export-ydpi="90"
+         style="fill:#ffffff;fill-opacity:1">
         <g
            id="g5372"
-           style="fill:#a0ec1e;fill-opacity:1">
+           style="fill:#ffffff;fill-opacity:1">
           <path
              transform="matrix(-0.42847619,0.4694313,-0.54037339,-0.45811651,-1062.9974,633.0374)"
              d="m -23.303572,74.683609 c 0,0.493111 -0.429727,0.892857 -0.959821,0.892857 -0.530095,0 -0.959822,-0.399746 -0.959822,-0.892857 0,-0.493111 0.429727,-0.892857 0.959822,-0.892857 0.530094,0 0.959821,0.399746 0.959821,0.892857 z"
@@ -8667,7 +8668,7 @@
              sodipodi:cy="74.683609"
              sodipodi:cx="-24.263393"
              id="path5374"
-             style="fill:#a0ec1e;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
              sodipodi:type="arc" />
           <path
              transform="matrix(2.4202862,0,0,2.5529651,-1036.5514,412.17315)"
@@ -8677,7 +8678,7 @@
              sodipodi:cy="74.683609"
              sodipodi:cx="-24.263393"
              id="path5376"
-             style="fill:#a0ec1e;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
              sodipodi:type="arc" />
           <path
              transform="matrix(-1.12918,1.2608549,-1.3596979,-1.2304643,-1024.2948,721.97069)"
@@ -8687,7 +8688,7 @@
              sodipodi:cy="74.683609"
              sodipodi:cx="-24.263393"
              id="path5378"
-             style="fill:#a0ec1e;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
              sodipodi:type="arc" />
           <path
              transform="matrix(1.4225264,0,0,1.4225264,-1053.4615,492.99264)"
@@ -8697,7 +8698,7 @@
              sodipodi:cy="74.683609"
              sodipodi:cx="-24.263393"
              id="path5380"
-             style="fill:#a0ec1e;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
              sodipodi:type="arc" />
           <path
              transform="matrix(1.1467539,0,0,1.1467539,-1062.2657,509.85022)"
@@ -8707,7 +8708,7 @@
              sodipodi:cy="74.683609"
              sodipodi:cx="-24.263393"
              id="path5382"
-             style="fill:#a0ec1e;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
              sodipodi:type="arc" />
           <path
              transform="matrix(1.8885261,0,0,1.8885261,-1047.9378,456.43226)"
@@ -8717,7 +8718,7 @@
              sodipodi:cy="74.683609"
              sodipodi:cx="-24.263393"
              id="path5384"
-             style="fill:#a0ec1e;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
              sodipodi:type="arc" />
           <path
              transform="matrix(0.95768874,-0.30715067,0.30715067,0.95768874,-1090.3527,511.22404)"
@@ -8727,7 +8728,7 @@
              sodipodi:cy="74.683609"
              sodipodi:cx="-24.263393"
              id="path5386"
-             style="fill:#a0ec1e;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
              sodipodi:type="arc" />
           <path
              transform="matrix(0.65052039,-0.20863547,0.20863547,0.65052039,-1090.8894,548.41213)"
@@ -8737,7 +8738,99 @@
              sodipodi:cy="74.683609"
              sodipodi:cx="-24.263393"
              id="path5388"
-             style="fill:#a0ec1e;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+      <g
+         transform="matrix(1.7178294,0,0,1.7178294,-71.517303,-1301.2119)"
+         id="g5370-1"
+         inkscape:export-filename="D:\2D\cegui\site\bubble.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         style="fill:#ffffff;fill-opacity:1">
+        <g
+           id="g5372-7"
+           style="fill:#ffffff;fill-opacity:1">
+          <path
+             transform="matrix(-0.42847619,0.4694313,-0.54037339,-0.45811651,-1062.9974,633.0374)"
+             d="m -23.303572,74.683609 c 0,0.493111 -0.429727,0.892857 -0.959821,0.892857 -0.530095,0 -0.959822,-0.399746 -0.959822,-0.892857 0,-0.493111 0.429727,-0.892857 0.959822,-0.892857 0.530094,0 0.959821,0.399746 0.959821,0.892857 z"
+             sodipodi:ry="0.89285713"
+             sodipodi:rx="0.9598214"
+             sodipodi:cy="74.683609"
+             sodipodi:cx="-24.263393"
+             id="path5374-4"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc" />
+          <path
+             transform="matrix(2.4202862,0,0,2.5529651,-1036.5514,412.17315)"
+             d="m -23.303572,74.683609 c 0,0.493111 -0.429727,0.892857 -0.959821,0.892857 -0.530095,0 -0.959822,-0.399746 -0.959822,-0.892857 0,-0.493111 0.429727,-0.892857 0.959822,-0.892857 0.530094,0 0.959821,0.399746 0.959821,0.892857 z"
+             sodipodi:ry="0.89285713"
+             sodipodi:rx="0.9598214"
+             sodipodi:cy="74.683609"
+             sodipodi:cx="-24.263393"
+             id="path5376-0"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc" />
+          <path
+             transform="matrix(-1.12918,1.2608549,-1.3596979,-1.2304643,-1024.2948,721.97069)"
+             d="m -23.303572,74.683609 c 0,0.493111 -0.429727,0.892857 -0.959821,0.892857 -0.530095,0 -0.959822,-0.399746 -0.959822,-0.892857 0,-0.493111 0.429727,-0.892857 0.959822,-0.892857 0.530094,0 0.959821,0.399746 0.959821,0.892857 z"
+             sodipodi:ry="0.89285713"
+             sodipodi:rx="0.9598214"
+             sodipodi:cy="74.683609"
+             sodipodi:cx="-24.263393"
+             id="path5378-9"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc" />
+          <path
+             transform="matrix(1.4225264,0,0,1.4225264,-1053.4615,492.99264)"
+             d="m -23.303572,74.683609 c 0,0.493111 -0.429727,0.892857 -0.959821,0.892857 -0.530095,0 -0.959822,-0.399746 -0.959822,-0.892857 0,-0.493111 0.429727,-0.892857 0.959822,-0.892857 0.530094,0 0.959821,0.399746 0.959821,0.892857 z"
+             sodipodi:ry="0.89285713"
+             sodipodi:rx="0.9598214"
+             sodipodi:cy="74.683609"
+             sodipodi:cx="-24.263393"
+             id="path5380-4"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc" />
+          <path
+             transform="matrix(1.1467539,0,0,1.1467539,-1062.2657,509.85022)"
+             d="m -23.303572,74.683609 c 0,0.493111 -0.429727,0.892857 -0.959821,0.892857 -0.530095,0 -0.959822,-0.399746 -0.959822,-0.892857 0,-0.493111 0.429727,-0.892857 0.959822,-0.892857 0.530094,0 0.959821,0.399746 0.959821,0.892857 z"
+             sodipodi:ry="0.89285713"
+             sodipodi:rx="0.9598214"
+             sodipodi:cy="74.683609"
+             sodipodi:cx="-24.263393"
+             id="path5382-8"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc" />
+          <path
+             transform="matrix(1.8885261,0,0,1.8885261,-1047.9378,456.43226)"
+             d="m -23.303572,74.683609 c 0,0.493111 -0.429727,0.892857 -0.959821,0.892857 -0.530095,0 -0.959822,-0.399746 -0.959822,-0.892857 0,-0.493111 0.429727,-0.892857 0.959822,-0.892857 0.530094,0 0.959821,0.399746 0.959821,0.892857 z"
+             sodipodi:ry="0.89285713"
+             sodipodi:rx="0.9598214"
+             sodipodi:cy="74.683609"
+             sodipodi:cx="-24.263393"
+             id="path5384-8"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc" />
+          <path
+             transform="matrix(0.95768874,-0.30715067,0.30715067,0.95768874,-1090.3527,511.22404)"
+             d="m -23.303572,74.683609 c 0,0.493111 -0.429727,0.892857 -0.959821,0.892857 -0.530095,0 -0.959822,-0.399746 -0.959822,-0.892857 0,-0.493111 0.429727,-0.892857 0.959822,-0.892857 0.530094,0 0.959821,0.399746 0.959821,0.892857 z"
+             sodipodi:ry="0.89285713"
+             sodipodi:rx="0.9598214"
+             sodipodi:cy="74.683609"
+             sodipodi:cx="-24.263393"
+             id="path5386-2"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc" />
+          <path
+             transform="matrix(0.65052039,-0.20863547,0.20863547,0.65052039,-1090.8894,548.41213)"
+             d="m -23.303572,74.683609 c 0,0.493111 -0.429727,0.892857 -0.959821,0.892857 -0.530095,0 -0.959822,-0.399746 -0.959822,-0.892857 0,-0.493111 0.429727,-0.892857 0.959822,-0.892857 0.530094,0 0.959821,0.399746 0.959821,0.892857 z"
+             sodipodi:ry="0.89285713"
+             sodipodi:rx="0.9598214"
+             sodipodi:cy="74.683609"
+             sodipodi:cx="-24.263393"
+             id="path5388-4"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
              sodipodi:type="arc" />
         </g>
       </g>
@@ -8830,13 +8923,13 @@
          transform="matrix(1.0560036,0,0,1.0560036,-1048.543,545.36477)"><flowRegion
            id="flowRegion6501-7-5"><rect
              id="rect6503-6-5"
-             width="759.35101"
-             height="56.192226"
+             width="748.93439"
+             height="24.942333"
              x="257.38687"
              y="171.22923"
              style="fill:#333333" /></flowRegion><flowPara
            id="flowPara6505-7-3"
-           style="font-size:12px;fill:#333333">It's is my sad duty to report that, I, CrazyEddie have been abducted by aliens. Worse than this, I have been probed... anally. This means that CEGUI development will take a back seat while I recover from this harrowing ordeal.</flowPara></flowRoot>      <flowRoot
+           style="font-size:12px;fill:#333333">In nibh nulla, ornare id neque a, ullamcorper eleifend nunc. Mauris turpis est, euismod sit amet neque sit amet, iaculis aliquam nisl. Sed ipsum urna, pellentesque et luctus vitae, condimentum sit amet magna. Sed dapibus eleifend velit nec rutrum. Duis euismod congue ante quis euismod. Aenean nisl dui, ultricies sed imperdiet et, imperdiet sit amet lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque arcu nisl, cursus eu posuere et, accumsan sed dolor. </flowPara></flowRoot>      <flowRoot
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="cegui_website.png"
@@ -8867,14 +8960,14 @@
              x="257.38687"
              y="171.22923"
              style="fill:#333333" /></flowRegion><flowPara
-           id="flowPara6505-7-4-9"
-           style="font-size:12px;fill:#333333">It's is my sad duty to report that, I, CrazyEddie have been abducted by aliens. Worse than this, I have been probed... anally. This means that CEGUI development will take a back seat while I recover from this harrowing ordeal. It's is my sad duty to report that, I, CrazyEddie have been abducted by aliens. Worse than this, I have been probed... anally. This means that CEGUI development will take a back seat while I recover from this harrowing ordeal.</flowPara><flowPara
            style="font-size:12px;fill:#333333"
-           id="flowPara22109-7">It's is my sad duty to report that, I, CrazyEddie have been abducted by aliens. Worse than this, I have been probed... anally. </flowPara><flowPara
+           id="flowPara22113-2">In nibh nulla, ornare id neque a, ullamcorper eleifend nunc. Mauris turpis est, euismod sit amet neque sit amet, iaculis aliquam nisl. Sed ipsum urna, pellentesque et luctus vitae, condimentum sit amet magna. Sed dapibus eleifend velit nec rutrum. Duis euismod congue ante quis euismod. Aenean nisl dui, ultricies sed imperdiet et, imperdiet sit amet lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque arcu nisl, cursus eu posuere et, accumsan sed dolor. </flowPara><flowPara
            style="font-size:12px;fill:#333333"
-           id="flowPara22111-2" /><flowPara
+           id="flowPara4735">In nibh nulla, ornare id neque a, ullamcorper eleifend nunc. Mauris turpis est, euismod sit amet neque sit amet, iaculis aliquam nisl. Sed ipsum urna, pellentesque et luctus vitae, condimentum sit amet magna. Sed dapibus eleifend velit nec rutrum. Duis euismod congue ante quis euismod. Aenean nisl dui, ultricies sed imperdiet et, imperdiet sit amet lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque arcu nisl, cursus eu posuere et, accumsan sed dolor. </flowPara><flowPara
            style="font-size:12px;fill:#333333"
-           id="flowPara22113-2" /></flowRoot>      <rect
+           id="flowPara4737" /><flowPara
+           style="font-size:12px;fill:#333333"
+           id="flowPara4739">In nibh nulla, ornare id neque a, ullamcorper eleifend nunc. Mauris turpis est, euismod sit amet neque sit amet, iaculis aliquam nisl. Sed ipsum urna, pellentesque et luctus vitae, condimentum sit amet magna. Sed dapibus eleifend velit nec rutrum. Duis euismod congue ante quis euismod. Aenean nisl dui, ultricies sed imperdiet et, imperdiet sit amet lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque arcu nisl, cursus eu posuere et, accumsan sed dolor. </flowPara></flowRoot>      <rect
          style="fill:#a0ec1e;fill-opacity:1;stroke:none"
          id="rect20966"
          width="383.38446"
@@ -9753,11 +9846,11 @@
              style="fill:#333333"
              y="171.22923"
              x="257.38687"
-             height="66.906738"
-             width="677.45129"
+             height="47.020443"
+             width="676.50433"
              id="rect6503-6-5-5" /></flowRegion><flowPara
            style="font-size:12px;fill:#333333"
-           id="flowPara6505-7-3-5">It's is my sad duty to report that, I, CrazyEddie have been abducted by aliens. Worse than this, I have been probed... anally. This means that CEGUI development will take a back seat while I recover from this harrowing ordeal.</flowPara></flowRoot>      <g
+           id="flowPara6505-7-3-5">In nibh nulla, ornare id neque a, ullamcorper eleifend nunc. Mauris turpis est, euismod sit amet neque sit amet, iaculis aliquam nisl. Sed ipsum urna, pellentesque et luctus vitae, condimentum sit amet magna. Sed dapibus eleifend velit nec rutrum. Duis euismod congue ante quis euismod. Aenean nisl dui, ultricies sed imperdiet et, imperdiet sit amet lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque arcu nisl, cursus eu posuere et, accumsan sed dolor. </flowPara></flowRoot>      <g
          id="g6621-9"
          transform="matrix(0.79775282,0,0,0.79775282,-738.13061,237.14851)">
         <path
@@ -9804,7 +9897,7 @@
              width="659.8028"
              id="rect6503-6-5-5-9" /></flowRegion><flowPara
            style="font-size:12px;fill:#333333"
-           id="flowPara6505-7-3-5-2">It's is my sad duty to report that, I, CrazyEddie have been abducted by aliens. Worse than this, I have been probed... anally. This means that CEGUI development will take a back seat while I recover from this harrowing ordeal.It's is my sad duty to report that, I, CrazyEddie have been abducted by aliens. Worse than this, I have been probed... anally. This means that CEGUI development will take a back seat while I recover from this harrowing ordeal.</flowPara></flowRoot>      <g
+           id="flowPara6505-7-3-5-2">In nibh nulla, ornare id neque a, ullamcorper eleifend nunc. Mauris turpis est, euismod sit amet neque sit amet, iaculis aliquam nisl. Sed ipsum urna, pellentesque et luctus vitae, condimentum sit amet magna. Sed dapibus eleifend velit nec rutrum. Duis euismod congue ante quis euismod. Aenean nisl dui, ultricies sed imperdiet et, imperdiet sit amet lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque arcu nisl, cursus eu posuere et, accumsan sed dolor. </flowPara></flowRoot>      <g
          transform="translate(-8.05297,10.01112)"
          id="g20986">
         <g
@@ -9857,7 +9950,7 @@
                y="171.22923"
                style="fill:#333333" /></flowRegion><flowPara
              id="flowPara6505-7-3-5-2-0"
-             style="font-size:12px;fill:#333333">It's is my sad duty to report that, I, CrazyEddie have been abducted by aliens. Worse than this, I have been pIt's is my sad duty to report that, I, CrazyEddie have been abducted by aliens. Worse than this, I have been probed... anally. This means that CEGUI development will take a back seat while I recover from this harrowing ordeal.robed... anally. This means that CEGUI development will take a back seat while I recover from this harrowing ordeal.</flowPara></flowRoot>      </g>
+             style="font-size:12px;fill:#333333">In nibh nulla, ornare id neque a, ullamcorper eleifend nunc. Mauris turpis est, euismod sit amet neque sit amet, iaculis aliquam nisl. Sed ipsum urna, pellentesque et luctus vitae, condimentum sit amet magna. Sed dapibus eleifend velit nec rutrum. Duis euismod congue ante quis euismod. Aenean nisl dui, ultricies sed imperdiet et, imperdiet sit amet lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque arcu nisl, cursus eu posuere et, accumsan sed dolor. </flowPara></flowRoot>      </g>
     </g>
     <g
        id="g6621-7"
