@@ -14,7 +14,7 @@
    id="svg5258"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="graphic.svg">
+   sodipodi:docname="colors.svg">
   <defs
      id="defs5260" />
   <sodipodi:namedview
@@ -28,7 +28,7 @@
      inkscape:cx="193.01859"
      inkscape:cy="262.76561"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6194"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1028"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,7 +104,7 @@
              width="86.785713"
              id="rect6055-4" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-           id="flowPara6057-0">#E6E6E6</flowPara></flowRoot>    </g>
+           id="flowPara6057-0">#ECECEC</flowPara></flowRoot>    </g>
     <g
        id="g6208"
        transform="translate(-1.8927917e-5,-2.8657379)">
